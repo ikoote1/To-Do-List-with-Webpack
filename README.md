@@ -39,7 +39,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Portfolio Setup <a name="about-project"></a>
+# 📖 TO DO LIST WITH WEBPACK <a name="about-project"></a>
 
 **Portfolio Setup** is a project I built to display my project and skills in using webpack and javascript.
 
