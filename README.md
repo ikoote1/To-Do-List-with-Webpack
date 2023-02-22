@@ -1,19 +1,30 @@
-# To-Do-List-with-Webpack
-- This is a website for listing your to do.
+<a name="To-Do-List-Webpack"></a>
+>PORTFOLIO-SETUP
+
+<div align="center">
+
+  <h3><b>To-Do-List-Webpack</b></h3>
+
+</div>
+
+<!-- To-Do-List-Webpack -->
+
 # 📗 Table of Contents
 
-- [To-Do-List-with-Webpack](#to-do-list-with-webpack)
 - [📗 Table of Contents](#-table-of-contents)
+- [📖 Portfolio Setup ](#-portfolio-setup-)
   - [🛠 Built With ](#-built-with-)
     - [Git ](#git-)
     - [Vs code](#vs-code)
-    - [Javascript ](#javascript-)
-    - [HTML](#html)
-    - [CSS ](#css-)
+    - [TNode js ](#tnode-js-)
+    - [TNode js ](#tnode-js--1)
+    - [TNode js ](#tnode-js--2)
+    - [TNode js ](#tnode-js--3)
     - [Key Features ](#key-features-)
-  - [Video Describing of the project](#video-describing-of-the-project)
+  - [Video Description of the project  Video ](#video-description-of-the-project--video-)
   - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
@@ -28,52 +39,52 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 About the Project <a name="about-project"></a>
-This is the project of a website for to do list.
+# 📖 Portfolio Setup <a name="about-project"></a>
 
-I built this project to improve my skills in web development.
-I developed using front end languages and Javascript  with webpack for better user exprience.
+**Portfolio Setup** is a project I built to display my project and skills in using webpack and javascript.
 
 ## 🛠 Built With <a name="built-with"></a>
-This project was built using the following materials and languages below;
 
 ### Git <a name="Git"></a>
 ### Vs code<a name="Vs code"></a>
-### Javascript <a name="Javascript"></a>
-### HTML<a name="HTML"></a>
-### CSS <a name="CSS"></a>
-### webpack <a name="webpack"></a>
+### TNode js <a name="Node js"></a>
+### TNode js <a name="Javascript"></a>
+### TNode js <a name="Webpack"></a>
+### TNode js <a name="HTML and CSS"></a>
 
 <details>
-  #Client
-  The clients for my project are the book readers and libraries.
-  
+  <summary>Client</summary>
+  -This project was developed for clients who want to be organised.
+  <ul>
+    <li><a href="https://github.com/ikoote1/To-Do-List-with-Webpack.git">Readme</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://github.com/ikoote1/To-Do-List-with-Webpack.git">Repo</a></li>
+  </ul>
+</details>
+
+
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **Description**
-  >This contains the;
-  - Title.
-  - Input for to do list.
-  - List of to do.
-  - Remove button.
-- ****
-- **Contacts**
-  - ikootepreim@gmail.com
-  - @ikootepreim
-  - LinkedIn https://www.linkedin.com/in/ikoote-rasuli-479545246/ 
+- **Title**
+- **Add activity**
+- **List**
+- **footer**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-## Video Describing of the project 
-<a name="Video" href="#"> Video </a>
+## Video Description of the project <a name="Video" href="#" > Video </a>
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="Preim Live"></a>
 
-- Live Demo 
-  Link(href="#")
+- Live Demo Link(href="#")
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,48 +95,64 @@ This project was built using the following materials and languages below;
 
 To get a local copy up and running, follow these steps.
 
+### Prerequisites
+
 In order to run this project you need:
 
->To Clone this (https://github.com/ikoote1/To-Do-List-with-Webpack) repository to your desired folder:
+>To Clone this (https://github.com/ikoote1/To-Do-List-with-Webpack.git) repository to your desired folder:
 
 ### Setup
 
 >Clone this (https://github.com/ikoote1/To-Do-List-with-Webpack.git) repository to your desired folder:
 
+
+  git clone [](https://github.com/ikoote1/To-Do-List-with-Webpack.git)
+
+
 ### Install
 
 Install this project with:
+
 -Link (href="https://github.com/ikoote1/To-Do-List-with-Webpack.git")
 
 ### Usage
-  
-> Clone the project from github
-> Or use the link to live demo and access it from there.
+
+To run the project, execute the following command:
+
+
+To run the project, open git bash and run the followind commands:
+
+> git init
+> cd my-project
+> code .
+
 
 ### Run tests
 
-To run tests, run the following steps:
+To run tests, run the following command:
 
-> Check the live demo and check on how the project work.
-> Clone and test for linter errors.
-> Check the dynamics.
+
+> git init
+> cd my-project
+> code .
 
 ### Deployment
-  This project was deployed using github pages and this the <a href="#">link</a> to the live devmo.
+
+You can deploy this project using:
+-Link (href="#")
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="Ikoote Rasuli and Dieum Akonkwa"></a>
+## 👥 Authors <a name="Ikoote Rasuli"></a>
 
-> IKOOTE RASULI AND DIEUM AKONKWA
+> IKOOTE RASULI
 
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/ikoote1)
 - Twitter: [@twitterhandle](https://twitter.com/ikoote1)
-- LinkedIn:[@LinkedIn](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B4xL98PtKS7SDj%2Fe93TEh9w%3D%3D) 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -134,11 +161,11 @@ To run tests, run the following steps:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-In the feature am planning;
+> Describe 1 - 3 features you will add to the project.
 
-- [ ] **Improve the styling**
-- [ ] **To include comment part**
-- [ ] **To add how to finish**
+- [ ] **Comment windows**
+- [ ] **Steps to finish activity window**
+- [ ] **Add styling**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -162,7 +189,7 @@ If you like this project , I will be very grad to help you with any issue.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
- - I would like to thank Microverse and its team.
+I would like to thank Microverse and its team.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -174,3 +201,4 @@ This project is [MIT](./LICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+[](https://github.com/ikoote1/To-Do-List-with-Webpack/pull/1)
