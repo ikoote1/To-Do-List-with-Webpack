@@ -1,5 +1,5 @@
 <a name="To-Do-List-Webpack"></a>
->PORTFOLIO-SETUP
+>To-Do-List-Webpack
 
 <div align="center">
 
@@ -12,7 +12,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Portfolio Setup ](#-portfolio-setup-)
+- [📖 To-Do-List-Webpack ](#-To-Do-List-Webpack-)
   - [🛠 Built With ](#-built-with-)
     - [Git ](#git-)
     - [Vs code](#vs-code)
@@ -47,10 +47,10 @@
 
 ### Git <a name="Git"></a>
 ### Vs code<a name="Vs code"></a>
-### TNode js <a name="Node js"></a>
-### TNode js <a name="Javascript"></a>
-### TNode js <a name="Webpack"></a>
-### TNode js <a name="HTML and CSS"></a>
+### Node js <a name="Node js"></a>
+### Javascript <a name="Javascript"></a>
+### Webpack <a name="Webpack"></a>
+###HTML and CSS <a name="HTML and CSS"></a>
 
 <details>
   <summary>Client</summary>
@@ -161,7 +161,7 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+>  1 - 3 features to be added to the project.
 
 - [ ] **Comment windows**
 - [ ] **Steps to finish activity window**
