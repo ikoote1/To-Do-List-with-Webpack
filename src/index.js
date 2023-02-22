@@ -1,5 +1,5 @@
 import "./style.css";
-
+//arrow object
 const obj = [
   {discription:"ikoote cooking style",
   commpleted:'',
@@ -11,7 +11,7 @@ const obj = [
   commpleted:'',
   index:3}
 ];
-
+// display
 const list = document.querySelector('.lists');
 obj.forEach((o)=>{
   list.innerHTML+=`
