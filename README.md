@@ -111,7 +111,7 @@ To run tests, run the following steps:
 > Check the dynamics.
 
 ### Deployment
-  This project was deployed using github pages and this the <a href="">link</a> to the live devmo.
+  This project was deployed using github pages and this the <a href="#">link</a> to the live devmo.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
