@@ -1,12 +1,9 @@
 # To-Do-List-with-Webpack
-# Awesome-Books
-- This is a website for storing books.
+- This is a website for listing your to do.
 # 📗 Table of Contents
 
 - [To-Do-List-with-Webpack](#to-do-list-with-webpack)
-- [Awesome-Books](#awesome-books)
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 About the Project ](#-about-the-project-)
   - [🛠 Built With ](#-built-with-)
     - [Git ](#git-)
     - [Vs code](#vs-code)
@@ -32,10 +29,10 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 About the Project <a name="about-project"></a>
-This is the project of a website for storing user's books.
+This is the project of a website for to do list.
 
 I built this project to improve my skills in web development.
-I developed using front end languages and Javascript for user exprience.
+I developed using front end languages and Javascript  with webpack for better user exprience.
 
 ## 🛠 Built With <a name="built-with"></a>
 This project was built using the following materials and languages below;
@@ -45,6 +42,7 @@ This project was built using the following materials and languages below;
 ### Javascript <a name="Javascript"></a>
 ### HTML<a name="HTML"></a>
 ### CSS <a name="CSS"></a>
+### webpack <a name="webpack"></a>
 
 <details>
   #Client
@@ -57,8 +55,8 @@ This project was built using the following materials and languages below;
 - **Description**
   >This contains the;
   - Title.
-  - Books display page.
-  - Form.
+  - Input for to do list.
+  - List of to do.
   - Remove button.
 - ****
 - **Contacts**
@@ -68,14 +66,14 @@ This project was built using the following materials and languages below;
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 ## Video Describing of the project 
-<a name="Video" href=""> Video </a>
+<a name="Video" href="#"> Video </a>
 
 <!-- LIVE DEMO -->
 
 ## 🚀 Live Demo <a name="Preim Live"></a>
 
 - Live Demo 
-  Link(href="")
+  Link(href="#")
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -88,16 +86,16 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
->To Clone this (https://github.com/ikoote1/Awesome-Books.git) repository to your desired folder:
+>To Clone this (https://github.com/ikoote1/To-Do-List-with-Webpack) repository to your desired folder:
 
 ### Setup
 
->Clone this (https://github.com/ikoote1/Awesome-Books.git) repository to your desired folder:
+>Clone this (https://github.com/ikoote1/To-Do-List-with-Webpack.git) repository to your desired folder:
 
 ### Install
 
 Install this project with:
--Link (href="https://github.com/ikoote1/Awesome-Books.git")
+-Link (href="https://github.com/ikoote1/To-Do-List-with-Webpack.git")
 
 ### Usage
   
@@ -138,9 +136,9 @@ To run tests, run the following steps:
 
 In the feature am planning;
 
-- [ ] **To add pdf books**
-- [ ] **To include download button**
-- [ ] **To add backend**
+- [ ] **Improve the styling**
+- [ ] **To include comment part**
+- [ ] **To add how to finish**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
