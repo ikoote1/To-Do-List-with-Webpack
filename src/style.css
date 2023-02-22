@@ -1,82 +1,97 @@
-body{
-    width: 60%;
-    height: auto;
-    position: relative;
-    left: 20%;
-    top: 100px;
+body {
+  width: 60%;
+  height: auto;
+  position: relative;
+  left: 20%;
+  top: 100px;
 }
-.style{
-    height: 60px;
-    width: 100%;
-    border: 0.3px solid rgb(151, 151, 151);
+
+.style {
+  height: 60px;
+  width: 100%;
+  border: 0.3px solid rgb(151, 151, 151);
 }
-.head{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+
+.head {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
 }
-.head>i{
-    padding-top: 15px;
-    padding-right: 10px;
+
+.head > i {
+  padding-top: 15px;
+  padding-right: 10px;
 }
-.head>h1{
-    position: relative;
-    left: 8px;
+
+.head > h1 {
+  position: relative;
+  left: 8px;
 }
-.text{
-    height: 56px;
-    width: 98.5%;
-    border: white;
-    font-style: italic;
-    /* border-color: white;  */
+
+.text {
+  height: 56px;
+  width: 98.5%;
+  border: white;
+  font-style: italic;
+
+  /* border-color: white;  */
 }
-.lists{
-    height: auto;
-    width: 100%;
+
+.lists {
+  height: auto;
+  width: 100%;
 }
-.tree{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    height: 60px;
-    width: 100%;
-    border: 0.3px solid;
-    border-color: rgb(153, 151, 151);
+
+.tree {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 60px;
+  width: 100%;
+  border: 0.3px solid;
+  border-color: rgb(153, 151, 151);
 }
-.list{
-    width: 80%;
-    height: 60px;
-    display: flex;
-    flex-direction: row;
-    gap: 14px;
-    position: relative;
-    left: 8px;
+
+.list {
+  width: 80%;
+  height: 60px;
+  display: flex;
+  flex-direction: row;
+  gap: 14px;
+  position: relative;
+  left: 8px;
 }
-#do1{position: relative;
-    top: 10px;
-    width: 25px;
-    height: 25px;
+
+#do1 {
+  position: relative;
+  top: 10px;
+  width: 25px;
+  height: 25px;
 }
-.delete{
-    display: none;
-    position: relative;
-    top: 5px;
-    padding-right: 10px;
+
+.delete {
+  display: none;
+  position: relative;
+  top: 5px;
+  padding-right: 10px;
 }
-.delete1{
-    font-size:24px;
-    position: relative;
-    top: 10px;
-    padding-right: 10px;
+
+.delete1 {
+  font-size: 24px;
+  position: relative;
+  top: 10px;
+  padding-right: 10px;
 }
-.button2{
-    /* text-align: center; */
-    position: relative;
-    left: 43%;
-    top: 20px;
-    font-size: 25px;
-    color: black;
+
+.button2 {
+  /* text-align: center; */
+  position: relative;
+  left: 43%;
+  top: 20px;
+  font-size: 25px;
+  color: black;
 }
-.btn{
-    background-color: rgb(202, 201, 201);
+
+.btn {
+  background-color: rgb(202, 201, 201);
 }
