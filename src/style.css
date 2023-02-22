@@ -51,8 +51,6 @@ body{
     gap: 14px;
     position: relative;
     left: 8px;
-    border-color: none;
-    /* display: none; */
 }
 #do1{position: relative;
     top: 10px;
