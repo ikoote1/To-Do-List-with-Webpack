@@ -1,6 +1,7 @@
 /* eslint-disable quotes */
 import "./style.css";
 import display from "./modules/store.js";
+
 const editTodoForm = document.querySelector("#todo-form");
 const enterBtn = document.querySelector(".enter-btn");
 const editTodoFormInput = document.querySelector(".todo-edit input");
