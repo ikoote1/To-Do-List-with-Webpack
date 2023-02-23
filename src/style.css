@@ -42,7 +42,7 @@ input:focus {
 .todo-title,
 .todo-edit,
 .todo-check {
-  padding: 1rem 1.5rem;
+  padding: 1.5rem 2.0rem;
 }
 
 .checkbox {

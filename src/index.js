@@ -1,7 +1,6 @@
-/* eslint-disable quotes */
-import "./style.css";
-import display from "./modules/store.js";
-import { clearCompleted } from "./modules/creet.js";
+import './style.css';
+import display from './todo.js';
+import { clearCompleted } from './mark.js';
 
 const enterBtn = document.querySelector('.enter-btn');
 const clearCheck = document.querySelector('.clear');
@@ -21,4 +20,3 @@ window.addEventListener('DOMContentLoaded', () => {
 enterBtn.addEventListener('click', () => {
   display.addTodo();
 });
-

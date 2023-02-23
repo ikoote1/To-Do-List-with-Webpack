@@ -1,4 +1,4 @@
-import { check } from "./creet.js";
+import { check } from './mark.js';
 
 const InnerTodo = document.querySelector('.todo-inner');
 let isEdit = false;
