@@ -29,7 +29,7 @@ export default class display {
     toDos.splice(id, 1);
     toDos.forEach((item) => {
       if (item.index > id) {
-        item.index -= 1;
+        item.index += 1;
       }
     });
     localStorage.setItem("todo", JSON.stringify(toDos));
