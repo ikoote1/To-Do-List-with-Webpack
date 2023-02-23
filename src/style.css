@@ -76,6 +76,10 @@ i {
   text-align: center;
 }
 
+.completed{
+  text-decoration: line-through;
+}
+
 .clear-all h3 {
   cursor: pointer;
   font-weight: normal;
