@@ -1,4 +1,4 @@
-import { check } from "./store";
+import { check } from './store.js';
 
 const InnerTodo = document.querySelector('.todo-inner');
 let isEdit = false;
