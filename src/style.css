@@ -42,7 +42,7 @@ input:focus {
 .todo-title,
 .todo-edit,
 .todo-check {
-  padding: 1.5rem 2.0rem;
+  padding: 1rem 1.5rem;
 }
 
 .checkbox {
@@ -60,7 +60,7 @@ input:focus {
   margin-right: 0.4rem;
 }
 
-#to-do-check {
+.to-do-check {
   margin-right: 1rem;
 }
 
@@ -76,7 +76,7 @@ i {
   text-align: center;
 }
 
-.completed{
+.completed {
   text-decoration: line-through;
 }
 
