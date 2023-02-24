@@ -38,27 +38,12 @@
     - [Javascript ](#javascript--1)
     - [Webpack ](#webpack--1)
     - [Key Features ](#key-features--1)
-  - [Video Description of the project  Video ](#video-description-of-the-project--video-)
-  - [🚀 Live Demo ](#-live-demo--1)
-  - [💻 Getting Started ](#-getting-started--1)
-    - [Prerequisites](#prerequisites)
-    - [Setup](#setup-1)
-    - [Install](#install-1)
-    - [Usage](#usage-1)
-    - [Run tests](#run-tests-1)
-    - [Deployment](#deployment-1)
-  - [👥 Authors ](#-authors--1)
-  - [🔭 Future Features ](#-future-features--1)
-  - [🤝 Contributing ](#-contributing--1)
-  - [⭐️ Show your support ](#️-show-your-support--1)
-  - [🙏 Acknowledgments ](#-acknowledgments--1)
-  - [📝 License ](#-license--1)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 TO DO LIST WITH WEBPACK <a name="about-project"></a>
 
-**Portfolio Setup** is a project I built to display my project and skills in using webpack and javascript.
+**To do list** is a project I built to display my project and skills in using webpack and javascript.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -156,7 +141,7 @@ To run tests, run the following command:
 ### Deployment
 
 You can deploy this project using:
--Link (href="#")
+-Link (href="(https://ikoote1.github.io/To-Do-List-with-Webpack/)")
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
