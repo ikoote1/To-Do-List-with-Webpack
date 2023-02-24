@@ -67,7 +67,7 @@ export default class display {
     const text = document.querySelector(".type-task").value;
     if (text !== "") {
       const toDos = display.getTodo();
-      const newInput = { text, completed: false, index: toDos.length+1};
+      const newInput = { text, completed: false, index: toDos.length + 1 };
       const editInput = { text, completed: false, index: editId };
 
       if (isEdit) {
