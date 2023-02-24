@@ -12,14 +12,6 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 To-Do-List-Webpack ](#-To-Do-List-Webpack-)
-  - [🛠 Built With ](#-built-with-)
-    - [Git ](#git-)
-    - [Vs code](#vs-code)
-    - [TNode js ](#tnode-js-)
-    - [TNode js ](#tnode-js--1)
-    - [TNode js ](#tnode-js--2)
-    - [TNode js ](#tnode-js--3)
     - [Key Features ](#key-features-)
   - [Video Description of the project  Video ](#video-description-of-the-project--video-)
   - [🚀 Live Demo ](#-live-demo-)
@@ -36,6 +28,30 @@
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License ](#-license-)
+- [📗 Table of Contents](#-table-of-contents-1)
+- [📖 TO DO LIST WITH WEBPACK ](#-to-do-list-with-webpack-)
+  - [🛠 Built With ](#-built-with--1)
+    - [Git ](#git--1)
+    - [Vs code](#vs-code-1)
+    - [Node js ](#node-js-)
+    - [Javascript ](#javascript--1)
+    - [Webpack ](#webpack--1)
+    - [Key Features ](#key-features--1)
+  - [Video Description of the project  Video ](#video-description-of-the-project--video-)
+  - [🚀 Live Demo ](#-live-demo--1)
+  - [💻 Getting Started ](#-getting-started--1)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup-1)
+    - [Install](#install-1)
+    - [Usage](#usage-1)
+    - [Run tests](#run-tests-1)
+    - [Deployment](#deployment-1)
+  - [👥 Authors ](#-authors--1)
+  - [🔭 Future Features ](#-future-features--1)
+  - [🤝 Contributing ](#-contributing--1)
+  - [⭐️ Show your support ](#️-show-your-support--1)
+  - [🙏 Acknowledgments ](#-acknowledgments--1)
+  - [📝 License ](#-license--1)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -201,4 +217,3 @@ This project is [MIT](./LICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-[](https://github.com/ikoote1/To-Do-List-with-Webpack/pull/1)

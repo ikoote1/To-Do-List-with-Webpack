@@ -1,32 +1,25 @@
-import './style.css';
-// arrow object
-const obj = [
-  {
-    discription: 'ikoote cooking style',
-    commpleted: '',
-    index: 1,
-  },
-  {
-    discription: 'rehema coding in java',
-    commpleted: '',
-    index: 2,
-  },
-  {
-    discription: 'namusobya developing website',
-    commpleted: '',
-    index: 3,
-  },
-];
-// display
-const list = document.querySelector('.lists');
-obj.forEach((o) => {
-  list.innerHTML += `
-  <div class = "tree"> <div class = "list">
-    <input type="checkbox" id="do1" name="do1" value="list">
-    <h2>${o.discription}</h2>
-    </div>
-    <i class="fa fa-trash fa-2x delete"></i>
-    <i class="fa delete1">&#xf142;</i></div>
-   
-  `;
+/* eslint-disable quotes */
+import "./style.css";
+import display from "./modules/store.js";
+
+const editTodoForm = document.querySelector("#todo-form");
+const enterBtn = document.querySelector(".enter-btn");
+const editTodoFormInput = document.querySelector(".todo-edit input");
+
+window.addEventListener("DOMContentLoaded", () => {
+  const task = display.getTodo();
+  display.loadTodo(task);
+});
+
+enterBtn.addEventListener("click", () => {
+  display.addTodo();
+});
+
+editTodoForm.addEventListener("submit", (e) => {
+  e.preventDefault();
+  const id = Number(editTodoFormInput.getAttribute("id"));
+  display.updateTaskInput(editTodoFormInput.value, id);
+  editTodoFormInput.value = "";
+  document.querySelector(".type-task").style.display = "block";
+  editTodoForm.style.display = "none";
 });
